@@ -1,0 +1,16 @@
+.error{
+    border: 1px solid red;
+    background: rgba(232, 95, 92, 0.1);
+}
+.formValidate {
+   line-height: 30px;
+}
+.formValidate h6{
+    color: #E85F5C;
+    width: 116px;
+    height: 16px;
+    font-size: 11px;
+    line-height: 16px;
+    display: flex;
+    justify-content: center;
+}

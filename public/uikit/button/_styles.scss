@@ -1,0 +1,37 @@
+.button {
+  outline: none;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  color: #FFFFFF;
+  padding: 0 15px;
+  border: 1px solid transparent;
+  height: 46px;
+  border-radius: 8px;
+}
+
+.submit {
+  background: #058ED9;
+  color: #FFFFFF;
+}
+
+.white {
+  background: #FFFFFF;
+  color: #058ED9;
+  border: 1px solid #058ED9;
+  box-sizing: border-box;
+}
+
+.green-outline {
+  background: #FFFFFF;
+  color: #36B927;
+  border: 1px solid #36B927;
+}
+
+.blue-outline {
+  background: #FFFFFF;
+  color: #058ED9;
+  border: 1px solid #058ED9;
+}
